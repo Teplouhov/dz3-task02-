@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\task02(1)\task02(1)\bin\Debug\task02(1).exe
+d:\documents\visual studio 2010\Projects\task02(1)\task02(1)\bin\Debug\task02(1).pdb
+d:\documents\visual studio 2010\Projects\task02(1)\task02(1)\obj\x86\Debug\task02(1).exe
+d:\documents\visual studio 2010\Projects\task02(1)\task02(1)\obj\x86\Debug\task02(1).pdb
